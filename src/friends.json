@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Ricky1",
+    "image": "https://vignette.wikia.nocookie.net/trailerpark/images/0/00/Ricky.jpg/revision/latest?cb=20091104160712",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "name": "Lahey",
+    "image": "https://vignette.wikia.nocookie.net/trailerpark/images/f/f5/Lahey.jpg/revision/latest?cb=20091104161132",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "name": "Bubbles",
+    "image": "https://shawglobalnews.files.wordpress.com/2016/04/02404656.jpg?quality=70&strip=all&w=720&h=480&crop=1",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "name": "Trinity",
+    "image": "https://vignette.wikia.nocookie.net/trailerpark/images/3/3d/Trinity_Season_01.jpg/revision/latest?cb=20120325234405",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "name": "Barb",
+    "image": "https://static.tvtropes.org/pmwiki/pub/images/6289def9c72d239f10e3653a36d29ba0.png",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "name": "Treena",
+    "image": "http://contested-spaces2018.hart.lsa.umich.edu/wp-content/wp-xmlrpusr.php?getimage=aHR0cDovL3N0YXRpYy5naWFudGJvbWIuY29tL3VwbG9hZHMvb3JpZ2luYWwvMTMvMTM0NTM0LzIyMjY3MTQtZWxsZW5fcGFnZV90cmFpbGVyX3BhcmtfYm95cy5qcGc=",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "name": "Sarah",
+    "image": "https://i.pinimg.com/originals/0f/7f/22/0f7f22aab4a9467a2b91fc978de10240.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "name": "Lucy",
+    "image": "https://i.ytimg.com/vi/lzO6Y_WVSNo/maxresdefault.jpg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "name": "3 ppl",
+    "image": "https://static2.srcdn.com/wordpress/wp-content/uploads/2017/06/Trailer-Park-Boys-Trailer-Park-Boys-Feature-Image-15-Dark-Behind-the-Scenes-Secrets.jpg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "name": "Ricky fam pic",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdKybxii2xacgNt20IMAjZXA7M7DpT2rZJsOKAyABCyy3ce2jK",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "name": "Randy and Lahey",
+    "image": "http://nepascene.com/wp-content/themes/patterns/timthumb.php?src=http%3A%2F%2Fnepascene.com%2Fwp-content%2Fuploads%2F2017%2F02%2FRandy-and-Mr.-Lahey-Trailer-Park-Boys-Kirby-Center-Wilkes-Barre.jpg&q=90&w=650&zc=1",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "name": "Randy",
+    "image": "https://i.redditmedia.com/ys1BQOUnPf5KJQe6I_Zy7_cgPd8R4RFmb2IyB0CB_Yw.jpg?w=320&s=729896a076b92aba47f654a2fae8a71f",
+    "clicked": false
+  }
+]
