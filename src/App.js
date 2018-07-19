@@ -59,25 +59,31 @@ class App extends React.Component {
         <div class="jumbotron">
           <h1 class="display-4">Trailer Park Boys Memory Game</h1>
           <h1>score = {this.state.score}</h1> 
-        </div>         
-        {shuffledPics.map((friend) => {
-          return (
-          <FriendCard
-            key={friend.id}
-            id={friend.id}
-            score={this.score}
-            clicker={this.clicker}
-            scoreIncrement={this.scoreIncrement}
-            restartGame={this.restartGame}
-            // shufflePics={this.shufflePics}
-            image={friend.image}
-          /> )
-        })
-      }
+        </div>      
+
+              {shuffledPics.map((friend) => {
+                return (
+                  <div class="col-md-4">
+                    <div class="row-md-9"> 
+                      <FriendCard
+                        key={friend.id}
+                        id={friend.id}
+                        score={this.score}
+                        clicker={this.clicker}
+                        scoreIncrement={this.scoreIncrement}
+                        restartGame={this.restartGame}
+                        // shufflePics={this.shufflePics}
+                        image={friend.image}
+                      /> 
+                    </div>
+                    </div>
+              )
+            })
+          }       
       </Wrapper>
       )
-    }
   };
+};
 
 
 export default App;

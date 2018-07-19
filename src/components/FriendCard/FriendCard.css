@@ -1,34 +1,17 @@
 .card {
-  height: 150px;
-  position: relative;
-  width: 150px;
-  margin:1rem;
-  text-align:left;
-  overflow: hidden;
-}
-
-.card > .img-container {
-  height: 60%;
-  overflow: hidden;
-  text-align: center;
+  background-size: cover;
+  background-position: 50%;
+  height: 130px;
+  width: 175px;
+  margin: 8px 25px;
+  border: 5px solid aquamarine;
+  border-radius: 3px;
+  -webkit-box-shadow: 0 3px 6px rgba(0,0,0,.16), 0 3px 6px rgba(0,0,0,.23);
+  box-shadow: 0 3px 6px rgba(0,0,0,.16), 0 3px 6px rgba(0,0,0,.23);
 }
 
 .card > .img-container > img {
-  width: 100%;
-  height:auto;
-  overflow:hidden;
-}
-
-
-.card > .remove {
-  color: #ff1744;
-  font-size: 48px;
-  position: absolute;
-  top: -20px;
-  right: 5px;
-  cursor: pointer;
-}
-
-.card:hover {
-  color: #d50000;
+  width: 175px;
+  overflow: hidden;
+  height:130px;
 }
